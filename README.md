@@ -131,19 +131,11 @@ DATEDIFF ( Sales[Order Date], Sales[Ship Date], DAY )
 
 ```
 /screenshots
-   ├── overview.png
-   ├── regional-analysis.png
-   └── profitability.png
+   ├── Total Sales.png
+   ├── Europe Sales.png
+   └── Africa Sales.png
 ```
 
-`![Dashboard Overview](screenshots/overview.png)`
 
----
 
-## 👤 Author
 
-**Mohamed Tarek** — Data Science & AI student
-Microsoft Power BI Data Analyst | Working toward PL-300
-
-- LinkedIn: `<your LinkedIn URL>`
-- GitHub: `<your GitHub URL>`
